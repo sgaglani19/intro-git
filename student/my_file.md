@@ -1,12 +1,12 @@
 # About Me
-My name is: Dhruv.
+My name is: Shriyu.
 
 ## Food
-My favorite food is: Pad Thai.
+My favorite food is: Chipotle Burrito Bowl.
 
 ## 
-My hobbies are: PC games, swimming, basketball.
+My hobbies are: Soccer, watching tv shows, video games.
 
 ##
-My favorite artist/band is: Nirvana.
+My favorite artist/band is: Travis Scott.
 
